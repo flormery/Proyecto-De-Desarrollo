@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8071
 springdoc:
   api-docs:
     enabled: true
@@ -17,10 +17,3 @@ spring:
       url: jdbc:mysql://localhost:3306/ms_coordinador
       username: root
       password:
-
-  eureka:
-    client:
-      serviceUrl:
-        defaultZone: http://localhost:8090/eureka
-    instance:
-      hostname: localhost
