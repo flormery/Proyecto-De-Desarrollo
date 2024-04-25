@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ms_coordinador
+    name: ms-coordinador-service
   profiles:
     active: development
   config:
