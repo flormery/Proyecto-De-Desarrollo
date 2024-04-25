@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aeb6ce4-f597-4876-8e23-a1d7930a7680" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-coordinador-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-coordinador-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-coordinador/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-coordinador/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <updated>1714011822577</updated>
       <workItem from="1714011823507" duration="1177000" />
       <workItem from="1714013064655" duration="951000" />
-      <workItem from="1714015187751" duration="1914000" />
+      <workItem from="1714015187751" duration="2865000" />
     </task>
     <servers />
   </component>
