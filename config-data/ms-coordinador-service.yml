@@ -1,5 +1,5 @@
 server:
-  port: 8071
+  port: 8061
 springdoc:
   api-docs:
     enabled: true
@@ -10,10 +10,9 @@ spring:
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
-
     show_sql: true
-    datasource:
-      driverClassName: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/ms_coordinador
-      username: root
-      password:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ms_coordinador
+    username: root
+    password:
