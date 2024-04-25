@@ -13,7 +13,7 @@ public class Coordinador {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     private String nombre;
-    private Integer telefono;
+    private String telefono;
     private String correo_electronico;
     private String validar_informe;
     private String fecha_inicio;
